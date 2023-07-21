@@ -1,2 +1,2 @@
 # Calculator-API
-Simple calculator API built with fastAPI
+Simple calculator API built with fast API
